@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: rgb(110, 74, 28);
+}
+
+p{
+    text-align: center;
+    color: rgb(9, 127, 25);
+}
+
+.title{
+    background-color: rgb(230, 178, 100);
+}
+
+.content{
+    background-color: lightgreen;
+}
